@@ -332,6 +332,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bassam Kurdali
 1. Bastien Nocera (Former director, GNOME Foundation)
 1. Behdad Esfahbod (Former director / president, GNOME Foundation)
+1. Ben Bromhead
 1. Ben Brown
 1. Ben Cotton (Fedora Project contributor)
 1. Ben Evans
@@ -1968,7 +1969,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Renaud Lepage
 1. René Ladan (FreeBSD Developer)
 1. Reuben Morais
-1. Rhett Aultman (they/them)
+1. Reynir Björnsson
 1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
 1. Rhys Davies
 1. Rhys Powell
